@@ -1,0 +1,12 @@
+C:\Users\symam\Documents\Builded Winform Apps\InventorySystem.exe
+C:\Users\symam\Documents\Builded Winform Apps\InventorySystem.dll
+C:\Users\symam\Documents\Builded Winform Apps\InventorySystem.deps.json
+C:\Users\symam\Documents\Builded Winform Apps\InventorySystem.runtimeconfig.json
+C:\Users\symam\Documents\Builded Winform Apps\InventorySystem.pdb
+C:\Users\symam\Documents\Builded Winform Apps\FontAwesome.Sharp.dll
+C:\Users\symam\Documents\Builded Winform Apps\System.Data.SqlClient.dll
+C:\Users\symam\Documents\Builded Winform Apps\runtimes\win-arm64\native\sni.dll
+C:\Users\symam\Documents\Builded Winform Apps\runtimes\win-x64\native\sni.dll
+C:\Users\symam\Documents\Builded Winform Apps\runtimes\win-x86\native\sni.dll
+C:\Users\symam\Documents\Builded Winform Apps\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\symam\Documents\Builded Winform Apps\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

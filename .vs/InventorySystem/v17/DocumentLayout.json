@@ -3,47 +3,59 @@
   "WorkspaceRootPath": "C:\\Users\\symam\\source\\repos\\InventorySystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|c:\\users\\symam\\source\\repos\\inventorysystem\\inventorysystem\\viewinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|solutionrelative:inventorysystem\\viewinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|c:\\users\\symam\\source\\repos\\inventorysystem\\inventorysystem\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|solutionrelative:inventorysystem\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|C:\\Users\\symam\\source\\repos\\InventorySystem\\inventorysystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|solutionrelative:inventorysystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|c:\\users\\symam\\source\\repos\\inventorysystem\\inventorysystem\\viewinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|solutionrelative:inventorysystem\\viewinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|c:\\users\\symam\\source\\repos\\inventorysystem\\inventorysystem\\editinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|solutionrelative:inventorysystem\\editinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|c:\\users\\symam\\source\\repos\\inventorysystem\\inventorysystem\\editinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|C:\\Users\\symam\\source\\repos\\InventorySystem\\inventorysystem\\editinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|solutionrelative:inventorysystem\\editinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|c:\\users\\symam\\source\\repos\\inventorysystem\\inventorysystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|solutionrelative:inventorysystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|c:\\users\\symam\\source\\repos\\inventorysystem\\inventorysystem\\editinventory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|solutionrelative:inventorysystem\\editinventory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|c:\\users\\symam\\source\\repos\\inventorysystem\\inventorysystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|solutionrelative:inventorysystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|c:\\users\\symam\\source\\repos\\inventorysystem\\inventorysystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|solutionrelative:inventorysystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|c:\\users\\symam\\source\\repos\\inventorysystem\\inventorysystem\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|solutionrelative:inventorysystem\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|c:\\users\\symam\\source\\repos\\inventorysystem\\inventorysystem\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|C:\\Users\\symam\\source\\repos\\InventorySystem\\inventorysystem\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|solutionrelative:inventorysystem\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|c:\\users\\symam\\source\\repos\\inventorysystem\\inventorysystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|solutionrelative:inventorysystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|C:\\Users\\symam\\source\\repos\\InventorySystem\\inventorysystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|solutionrelative:inventorysystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|c:\\users\\symam\\source\\repos\\inventorysystem\\inventorysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|C:\\Users\\symam\\source\\repos\\InventorySystem\\inventorysystem\\editinventory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|solutionrelative:inventorysystem\\editinventory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|C:\\Users\\symam\\source\\repos\\InventorySystem\\inventorysystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|solutionrelative:inventorysystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|C:\\Users\\symam\\source\\repos\\InventorySystem\\inventorysystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|solutionrelative:inventorysystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|C:\\Users\\symam\\source\\repos\\InventorySystem\\inventorysystem\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|solutionrelative:inventorysystem\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|C:\\Users\\symam\\source\\repos\\InventorySystem\\inventorysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|solutionrelative:inventorysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|c:\\users\\symam\\source\\repos\\inventorysystem\\inventorysystem\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|C:\\Users\\symam\\source\\repos\\InventorySystem\\inventorysystem\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A39362A0-9D55-4194-A701-DCE75311FD83}|InventorySystem\\InventorySystem.csproj|solutionrelative:inventorysystem\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,11 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\InventorySystem\\InventorySystem\\Login.cs",
               "RelativeDocumentMoniker": "InventorySystem\\Login.cs",
@@ -71,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Register.cs [Design]",
               "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\InventorySystem\\InventorySystem\\Register.cs",
               "RelativeDocumentMoniker": "InventorySystem\\Register.cs",
@@ -84,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "EditInventory.cs [Design]",
               "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\InventorySystem\\InventorySystem\\EditInventory.cs",
               "RelativeDocumentMoniker": "InventorySystem\\EditInventory.cs",
@@ -97,20 +109,58 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewInventory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\InventorySystem\\InventorySystem\\ViewInventory.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\ViewInventory.cs",
+              "ToolTip": "C:\\Users\\symam\\source\\repos\\InventorySystem\\InventorySystem\\ViewInventory.cs [Design]",
+              "RelativeToolTip": "InventorySystem\\ViewInventory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:08:07.988Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\InventorySystem\\InventorySystem\\Home.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Home.cs",
+              "ToolTip": "C:\\Users\\symam\\source\\repos\\InventorySystem\\InventorySystem\\Home.cs [Design]",
+              "RelativeToolTip": "InventorySystem\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:55:33.578Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewInventory.cs",
+              "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\InventorySystem\\InventorySystem\\ViewInventory.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\ViewInventory.cs",
+              "ToolTip": "C:\\Users\\symam\\source\\repos\\InventorySystem\\InventorySystem\\ViewInventory.cs",
+              "RelativeToolTip": "InventorySystem\\ViewInventory.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAwwGwAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:19:54.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "EditInventory.cs",
               "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\InventorySystem\\InventorySystem\\EditInventory.cs",
               "RelativeDocumentMoniker": "InventorySystem\\EditInventory.cs",
               "ToolTip": "C:\\Users\\symam\\source\\repos\\InventorySystem\\InventorySystem\\EditInventory.cs",
               "RelativeToolTip": "InventorySystem\\EditInventory.cs",
-              "ViewState": "AQIAAJwAAAAAAAAAAAAowK4AAAANAAAA",
+              "ViewState": "AQIAAAIBAAAAAAAAAAAuwBoBAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T08:09:02.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "MainForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\InventorySystem\\InventorySystem\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "InventorySystem\\MainForm.Designer.cs",
@@ -118,12 +168,11 @@
               "RelativeToolTip": "InventorySystem\\MainForm.Designer.cs",
               "ViewState": "AQIAAAYBAAAAAAAAAAAawE8BAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T07:53:22.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T07:53:22.507Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\InventorySystem\\InventorySystem\\MainForm.cs",
               "RelativeDocumentMoniker": "InventorySystem\\MainForm.cs",
@@ -131,12 +180,11 @@
               "RelativeToolTip": "InventorySystem\\MainForm.cs",
               "ViewState": "AQIAAJ8AAAAAAAAAAAAqwCMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T07:52:59.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T07:52:59.959Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "EditInventory.Designer.cs",
               "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\InventorySystem\\InventorySystem\\EditInventory.Designer.cs",
               "RelativeDocumentMoniker": "InventorySystem\\EditInventory.Designer.cs",
@@ -149,19 +197,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\InventorySystem\\InventorySystem\\MainForm.cs",
               "RelativeDocumentMoniker": "InventorySystem\\MainForm.cs",
               "ToolTip": "C:\\Users\\symam\\source\\repos\\InventorySystem\\InventorySystem\\MainForm.cs [Design]",
               "RelativeToolTip": "InventorySystem\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T07:31:20.96Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-04T07:31:20.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Register.cs",
               "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\InventorySystem\\InventorySystem\\Register.cs",
               "RelativeDocumentMoniker": "InventorySystem\\Register.cs",
@@ -174,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\InventorySystem\\InventorySystem\\Login.cs",
               "RelativeDocumentMoniker": "InventorySystem\\Login.cs",
@@ -187,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\symam\\source\\repos\\InventorySystem\\InventorySystem\\Program.cs",
               "RelativeDocumentMoniker": "InventorySystem\\Program.cs",
@@ -195,8 +242,7 @@
               "RelativeToolTip": "InventorySystem\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T06:54:32.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T06:54:32.935Z"
             }
           ]
         }

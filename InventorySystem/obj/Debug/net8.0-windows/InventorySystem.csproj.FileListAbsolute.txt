@@ -31,3 +31,4 @@ C:\Users\symam\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0-win
 C:\Users\symam\source\repos\InventorySystem\InventorySystem\obj\Debug\net8.0-windows\WinFormsApp1.Controls.CustomComboBox.resources
 C:\Users\symam\source\repos\InventorySystem\InventorySystem\obj\Debug\net8.0-windows\InventorySystem.Controls.CustomTextBox.resources
 C:\Users\symam\source\repos\InventorySystem\InventorySystem\obj\Debug\net8.0-windows\InventorySystem.Register.resources
+C:\Users\symam\source\repos\InventorySystem\InventorySystem\obj\Debug\net8.0-windows\InventorySystem.sourcelink.json
